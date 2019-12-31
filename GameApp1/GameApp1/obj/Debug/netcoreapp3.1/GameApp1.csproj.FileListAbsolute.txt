@@ -1,0 +1,11 @@
+C:\Users\Aaron\source\repos\GameApp1\GameApp1\bin\Debug\netcoreapp3.1\GameApp1.exe
+C:\Users\Aaron\source\repos\GameApp1\GameApp1\bin\Debug\netcoreapp3.1\GameApp1.deps.json
+C:\Users\Aaron\source\repos\GameApp1\GameApp1\bin\Debug\netcoreapp3.1\GameApp1.runtimeconfig.json
+C:\Users\Aaron\source\repos\GameApp1\GameApp1\bin\Debug\netcoreapp3.1\GameApp1.runtimeconfig.dev.json
+C:\Users\Aaron\source\repos\GameApp1\GameApp1\bin\Debug\netcoreapp3.1\GameApp1.dll
+C:\Users\Aaron\source\repos\GameApp1\GameApp1\bin\Debug\netcoreapp3.1\GameApp1.pdb
+C:\Users\Aaron\source\repos\GameApp1\GameApp1\obj\Debug\netcoreapp3.1\GameApp1.csprojAssemblyReference.cache
+C:\Users\Aaron\source\repos\GameApp1\GameApp1\obj\Debug\netcoreapp3.1\GameApp1.AssemblyInfoInputs.cache
+C:\Users\Aaron\source\repos\GameApp1\GameApp1\obj\Debug\netcoreapp3.1\GameApp1.AssemblyInfo.cs
+C:\Users\Aaron\source\repos\GameApp1\GameApp1\obj\Debug\netcoreapp3.1\GameApp1.dll
+C:\Users\Aaron\source\repos\GameApp1\GameApp1\obj\Debug\netcoreapp3.1\GameApp1.pdb
